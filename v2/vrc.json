@@ -1,0 +1,11 @@
+{
+    "_version": "1.0.0",
+    "users": [
+        {"Name":"_spidget", "vip":true, "mod":true, "dev":true},
+        {"Name":"DemonitizedBoi", "vip":true, "mod":true, "dev":true},
+        {"Name":"TheZiver", "vip":true, "mod":true, "dev":true}
+    ],
+    "items": {
+        "guns":false
+    }
+}
