@@ -1,10 +1,30 @@
 {
     "_version": "1.0.0",
     "users": [
-        {"Name":"_spidget", "vip":true, "mod":true, "dev":true},
-        {"Name":"DemonitizedBoi", "vip":true, "mod":true, "dev":true},
-        {"Name":"TheZiver", "vip":true, "mod":true, "dev":true}
-    ],
+        {"name":"_spidget", "perms":255},
+        {"name":"DemonitizedBoi", "perms":255},
+        {"name":"TheZiver", "perms":255},
+        {"name":"200Tigersbloxed", "perms":255},
+        {"name":"Koizotal", "perms":255},
+        {"name":"Technobiotic", "perms":128},
+        {"name":"Robaws", "perms":128},
+        {"name":"Cunks_Feet", "perms":128},
+        {"name":"~Hydro~", "perms":128},
+        {"name":"Luiswillich", "perms":128},
+        {"name":"Nerve Ape", "perms":128},
+        {"name":"Y E S？", "perms":128},
+        {"name":"Friiiday", "perms":64},
+        {"name":"VerSe10", "perms":128},
+        {"name":"-Thimo-", "perms":64},
+        {"name":"ezhulk", "perms":64},
+        {"name":"Comedian't", "perms":64},
+        {"name":"Artholic", "perms":64},
+        {"name":"Virtual?", "perms":64},
+        {"name":"acaipunch", "perms":64},
+        {"name":"Falls", "perms":64},
+        {"name":"Mengsk", "perms":64},
+        {"name":"Lord Unicron", "perms":64}
+        ],
     "items": {
         "guns":false
     }
