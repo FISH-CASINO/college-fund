@@ -24,8 +24,8 @@
         {"name":"Falls", "perms":64},
         {"name":"Mengsk", "perms":64},
         {"name":"Lord Unicron", "perms":64}
-        ],
+    ],
     "items": {
-        "guns":false
+        "guns":true
     }
 }
