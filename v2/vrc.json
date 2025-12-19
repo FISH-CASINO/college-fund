@@ -28,6 +28,6 @@
         {"name":"Lord Unicron", "perms":64}
     ],
     "items": {
-        "guns":true
+        "guns":false
     }
 }
