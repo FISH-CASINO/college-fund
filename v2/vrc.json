@@ -28,6 +28,7 @@
         {"name":"Lord Unicron", "perms":64}
     ],
     "items": {
-        "guns":false
+        "guns":false,
+        "twinTowers":true
     }
 }
