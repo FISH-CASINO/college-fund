@@ -29,6 +29,6 @@
     ],
     "items": {
         "guns":false,
-        "twinTowers":false
+        "twinTowers":true
     }
 }
